@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luke1998/Desktop/OOP/OOP_pj4/biginteger.cpp
+iostream
+-
+string
+-
+iomanip
+-
+algorithm
+-
+
+/Users/luke1998/Desktop/OOP/OOP_pj4/main.cpp
+cstdio
+-
+cstdlib
+-
+fstream
+-
+cstring
+-
+vector
+-
+biginteger.cpp
+/Users/luke1998/Desktop/OOP/OOP_pj4/biginteger.cpp
+
